@@ -2,7 +2,9 @@
 title: "The Story of Porgs"
 author: "Neal"
 date: "12/22/2020"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
